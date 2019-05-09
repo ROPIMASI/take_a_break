@@ -1,11 +1,8 @@
-01234567890123456789012345678901234567890123456789012345678901234567890123456789
 # take_a_break  
 
-### This project is a python application, for the line command terminal. It runs
-a countdown (set by the user) for break time at work or study.  
+### This project is a python application, for the line command terminal. It runs a countdown (set by the user) for break time at work or study.  
 
-### The "take_a_break.py" is a project sample, which I am making to demonstrate
-some of my abilities. It is found also on my portfolio: https://ropimasi.wixsite.com/portfolio .  
+### The **_"take_a_break.py"_** is a project sample, which I am making to demonstrate some of my abilities. It is found also on my portfolio: https://ropimasi.wixsite.com/portfolio .  
 
 CONTENT: UDACITY UD036 PYTHON PROGRAMMING FUNDAMENTALS, MINI-PPROJECT-1-PLUS-BY-MYSELF.  
 THEME: BREAK TIME AT COMPUTER WORK OR STUDY.  
@@ -18,8 +15,8 @@ LANGUAGE: PYTHON.
 LANG-VERSION: 3.  
 PLATAFORM: Microsoft Windows7, PYTHON 3.7 INTERPRETER, VISUAL STUDIO CODE.  
 
-IMPORTANT NOTE / DISCLAIMER:  
+IMPORTANT NOTE / DISCLAIMER:
 This is a project made exclusively for study purposes. Nobody has obliga-
-tions, either responsibility on it or its effects. There is no guarantee 
+tions, either responsibility on it or its effects. There is no guarantee
 it will work correctly. SEE ITS `LICENSE` IN THIS REPOSITORY.  
 
