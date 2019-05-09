@@ -18,5 +18,5 @@ PLATAFORM: Microsoft Windows7, PYTHON 3.7 INTERPRETER, VISUAL STUDIO CODE.
 IMPORTANT NOTE / DISCLAIMER:
 This is a project made exclusively for study purposes. Nobody has obliga-
 tions, either responsibility on it or its effects. There is no guarantee
-it will work correctly. SEE ITS [https://raw.githubusercontent.com/ROPIMASI/take_a_break/master/LICENSE]`LICENSE` FILE IN THIS REPOSITORY.  
+it will work correctly. SEE ITS [`LICENSE`](https://raw.githubusercontent.com/ROPIMASI/take_a_break/master/LICENSE) FILE IN THIS REPOSITORY.  
 
