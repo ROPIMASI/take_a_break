@@ -1,4 +1,4 @@
-aRonaldo VSCODE GIT GITHUB
+Ronaldo VSCODE GIT GITHUB
 
 SSH:git@github.com:ROPIMASI/take_a_break.git
 
