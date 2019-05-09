@@ -2,7 +2,7 @@
 
 ### This project is a python application, for the line command terminal. It runs a countdown (set by the user) for break time at work or study.  
 
-### The **_"take_a_break.py"_** is a project sample, which I am making to demonstrate some of my abilities. It is found also on my portfolio: https://ropimasi.wixsite.com/portfolio .  
+### The **_"take_a_break.py"_** is a project sample, which I am making to demonstrate some of my abilities. It is also found on my portfolio: https://ropimasi.wixsite.com/portfolio .  
 
 CONTENT: UDACITY UD036 PYTHON PROGRAMMING FUNDAMENTALS, MINI-PPROJECT-1-PLUS-BY-MYSELF.  
 THEME: BREAK TIME AT COMPUTER WORK OR STUDY.  
