@@ -1,12 +1,13 @@
 """
-# CONTENT: UDACITY UD036 PYTHON PROGRAMMING FUNDAMENTALS, MINI-PPROJECT-1.
-# THEME: BREAK TIME AT COMPUTER WORK.
-# PROJECT NAME / FILE: take_a_break.py .
-# VERSION: 0.2 .
+# CONTENT: UDACITY UD036 PYTHON PROGRAMMING FUNDAMENTALS, MINI-PPROJECT-1-PLUS-BY-MYSELF.
+# THEME: BREAK TIME AT COMPUTER WORK OR STUDY.
+# PROJECT NAME: take_a_break.
+# FILE NAME: take_a_break.py / tab .
+# PROJ-VERSION: 0.2 .
 # AUTHOR: RONALDO PI MA SI.
 # DATE: 2019-MAY.
 # LANGUAGE: PYTHON.
-# VERSION: 3.
+# LANG-VERSION: 3.
 # PLATAFORM: Microsoft Windows7, PYTHON 3.7 INTERPRETER, VISUAL STUDIO CODE.
 
 # IMPORTANT NOTE / DISCLAIMER:
@@ -14,6 +15,7 @@
 # tions, either responsibility on it or its effects. There is no guarantee
 # it will work correctly.
 
+# UNLICENSED:
 # This is free and unencumbered software released into the public domain.
 # Anyone is free to copy, modify, publish, use, compile, sell, or
 # distribute this software, either in source code form or as a compiled
@@ -51,20 +53,20 @@ import webbrowser as wb
 
 
 def has_invalid_args(arg_list, valid_list):
-    """Verify if 'arg_list' is a whole valid arguments list.
+    """Verify if 'arg_list' is a completely valid arguments list.
 
     User passes a list of arguments along with the command line in the shell.
-    Developer tests whether those aguments are all valid using this function.
+    Program tests whether those aguments are all valid using this function.
     For that, 'arg_list' will be compared to the 'valid_list'.
 
     Arguments:
         arg_list {string list}, required, ;
         valid_list {string list}, required, ;
 
-    Attributes-Vars: None.
-    Sub-Functions-Methods: None.
+    Attributes/Vars: None.
+    Sub-Functions/Methods: None.
     Returns: {string list}, can has len()=0 or greater, representing only
-        elements which are not in 'valid_list'.
+        elements which are NOT in 'valid_list'.
     Raises: N/A.
     """
     return [elemt for elemt in arg_list if (elemt not in valid_list)]
@@ -99,7 +101,6 @@ def main(qty=1, uom='h', url=''):
     Returns: None.
     Raises: N/A.
     """
-
     if uom=='s':
         uom=1
     if uom=='m':
@@ -114,12 +115,12 @@ def main(qty=1, uom='h', url=''):
 
 
 
-# t_a_b BEGIN
+# tab BEGIN
 
-# t_a_b globals:
+# tab globals:
 g_acceptable_args_v1 = ['h','m','s','?','l']
 
-if (sys.argv[0]=='./take_a_break.py') or (sys.argv[0]=='./t_a_b') :
+if (sys.argv[0]=='./take_a_break.py') or (sys.argv[0]=='./tab') :
     #print(has_invalid_args(sys.argv[1:], g_acceptable_args_v1))
     #print(len(has_invalid_args(sys.argv[1:], g_acceptable_args_v1)))
     print(t.ctime())
